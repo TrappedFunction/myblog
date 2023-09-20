@@ -1,2 +1,6 @@
 # 项目排除路径
 /target/
+# 忽略MySQL数据库文件和数据目录
+/data/
+/db/
+*.sql
